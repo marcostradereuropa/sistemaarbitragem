@@ -1,0 +1,6 @@
+{
+  "name": "ArbitrX - Scanner de Arbitragem Cripto & Redes em Tempo Real",
+  "description": "M.Árbitro: Plataforma Enterprise de Arbitragem Multidimensional em Alta Frequência (HFT) com Dashboard de 6 Setores, Protocolo de 5 Travas Zero-Risco, O Edifício com 5 Andares de Agentes, Gestão de Tesouraria e Governança SaaS para o CEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
